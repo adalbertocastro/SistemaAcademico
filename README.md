@@ -1,2 +1,3 @@
 # SistemaAcademico
-Sistema que visa a organização de um sistema academico
+Sistema que visa a organização de um sistema academico, emplemntado por mim ...
+e isso e tudo pessoal
